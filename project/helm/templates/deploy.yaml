@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
   
-      - image: lzlgem/techtrends:latest
+      - image: zhenlianglu/techtrends:latest
         name: techtrends
         ports:
         - containerPort: 3111

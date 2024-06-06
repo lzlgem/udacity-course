@@ -31,4 +31,4 @@ jobs:
           context: ./project
           file: ./project/Dockerfile
           push: true
-          tags: lzlgem/techtrends:latest
+          tags: zhenlianglu/techtrends:latest
