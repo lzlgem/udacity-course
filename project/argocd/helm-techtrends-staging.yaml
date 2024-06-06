@@ -13,7 +13,7 @@ spec:
       valueFiles:
       - values-staging.yaml 
     path: project/helm
-    repoURL: https://github.com/JasonNio/COURSE_1
+    repoURL: https://github.com/lzlgem/COURSE_1
     targetRevision: HEAD
  # Sync policy
   syncPolicy: {}
